@@ -16,6 +16,7 @@
 1. 安装依赖
 ```bash
 pip install pandas matplotlib
+```
 
 2. 运行脚本
 ```
