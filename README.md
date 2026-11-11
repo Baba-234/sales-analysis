@@ -18,7 +18,6 @@
 pip install pandas matplotlib
 
 2. 运行脚本
-
 ```
 python saleAnalysis.py
 ```
